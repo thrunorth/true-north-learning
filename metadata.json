@@ -1,0 +1,6 @@
+{
+  "name": "THRU NORTH",
+  "description": "THRU NORTH — Stay Ahead. Be Smart. Premium Philippine K-12 educational mastery operating system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
